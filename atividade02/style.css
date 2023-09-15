@@ -1,0 +1,29 @@
+.base{
+    background-color: rgb(235, 198, 229);
+    margin-top: 2%;
+}
+
+#titulo{
+    text-align: center;
+}
+
+.btn{
+    margin-top: 20px;
+    width: 100px;
+    margin-right: 10px;
+}
+
+.m_btn{
+    text-align: right;
+    justify-content: end;
+}
+
+.labels{
+    margin: 5px;
+}
+
+@media (min-width: 768px) {
+    .base{
+        width: 768px;
+    }
+}
