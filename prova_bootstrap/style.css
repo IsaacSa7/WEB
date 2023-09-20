@@ -1,0 +1,31 @@
+.linha{
+    height: 400px;
+}
+
+.caixa1{
+    background-color: rgb(232, 236, 236);
+    padding: 20px;
+}
+
+.caixa2{
+    background-color: rgb(249, 249, 249);
+}
+
+.imagem{
+    height: 100%;
+    width: 100%;
+}
+
+
+.imagens{
+    width: 20px;
+    height: 20px;
+}
+.logos{
+    width: 50px;
+
+}
+
+.btn_login{
+    width: 120px;
+}
